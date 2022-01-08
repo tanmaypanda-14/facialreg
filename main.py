@@ -13,3 +13,6 @@ while cam.isOpened():
     if cv2.waitKey(10) == ord('q'):
         break
     cv2.imshow('test', frame1)
+    #hello
+    #hey
+    
